@@ -1,0 +1,8 @@
+<Cache>
+  <Translators>
+    <Translator value="OpenSpan.Adapters.Virtual.dll" />
+  </Translators>
+  <BuildReferences>
+    <BuildReference value="RuntimeConfig.xml" />
+  </BuildReferences>
+</Cache>

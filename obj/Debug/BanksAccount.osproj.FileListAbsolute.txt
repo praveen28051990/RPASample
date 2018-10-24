@@ -1,0 +1,9 @@
+C:\Praveen\BanksAccount\BanksAccount\bin\Debug\OpenSpan.Adapters.Virtual.dll
+C:\Praveen\BanksAccount\BanksAccount\bin\Debug\RuntimeConfig.xml
+C:\Praveen\BanksAccount\BanksAccount\bin\Debug\BanksAccount.dll
+C:\Praveen\BanksAccount\BanksAccount\bin\Debug\BanksAccount.pdb
+C:\Praveen\BanksAccount\BanksAccount\obj\Debug\BanksAccount.osprojResolveAssemblyReference.cache
+C:\Praveen\BanksAccount\BanksAccount\obj\Debug\ImportTypeMap.resources
+C:\Praveen\BanksAccount\BanksAccount\obj\Debug\BanksAccount.osproj.GenerateResource.Cache
+C:\Praveen\BanksAccount\BanksAccount\obj\Debug\BanksAccount.dll
+C:\Praveen\BanksAccount\BanksAccount\obj\Debug\BanksAccount.pdb

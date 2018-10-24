@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="BanksAccount" fileName="BanksAccount.dll" assemblyName="BanksAccount.dll" id="Project-8D41DE0C080ED45" version="8.0.1103.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="E62ABCF97044A1E80B7450FFB8C714">
+    <Assemblies>
+      <Assembly value="BanksAccount.dll" digest="2BE7BAAE8C3B04D23A03B69065BC50" />
+      <Assembly value="BanksAccount.pdb" digest="4C4870292303B680F0DE434DC6B81E" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

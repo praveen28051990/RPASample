@@ -1,0 +1,45 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="Automator-8D41DE0C04A15AA" className="BankAccountAutomation" type="Automation" isPublic="True" screenShots="">
+      <DynamicClasses>
+        <DynamicClass id="Script-8D41E0D48A7099C" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+            <Reference value="System.Core.dll" />
+            <Reference value="System.Data.dll" />
+            <Reference value="System.Design.dll" />
+            <Reference value="System.Drawing.dll" />
+            <Reference value="System.Web.dll" />
+            <Reference value="System.Windows.Forms.dll" />
+            <Reference value="System.Xml.dll" />
+            <Reference value="OpenSpan.Adapters.dll" />
+            <Reference value="OpenSpan.Adapters.Web.dll" />
+            <Reference value="OpenSpan.Adapters.Windows.dll" />
+          </References>
+        </DynamicClass>
+        <DynamicClass id="Script-8D41EB1A1DD8CF7" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+            <Reference value="System.Core.dll" />
+            <Reference value="System.Data.dll" />
+            <Reference value="System.Design.dll" />
+            <Reference value="System.Drawing.dll" />
+            <Reference value="System.Web.dll" />
+            <Reference value="System.Windows.Forms.dll" />
+            <Reference value="System.Xml.dll" />
+            <Reference value="OpenSpan.Adapters.dll" />
+            <Reference value="OpenSpan.Adapters.Web.dll" />
+            <Reference value="OpenSpan.Adapters.Windows.dll" />
+          </References>
+        </DynamicClass>
+      </DynamicClasses>
+    </DesignComponent>
+    <DesignComponent id="DesignForm-8D41DE0CF0F2796" className="BankAccount" type="WinForm" isPublic="True" screenShots="" />
+    <DesignComponent id="GlobalContainer-8D4800AE55D8CAC" className="Global_Container1" type="GlobalContainer" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>
